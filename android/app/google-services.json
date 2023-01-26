@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "824827103730",
+    "project_id": "darkstore-lastver",
+    "storage_bucket": "darkstore-lastver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824827103730:android:cc1c1bee07122dae0f836b",
+        "android_client_info": {
+          "package_name": "com.example.darkstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824827103730-e91g4vt8m2rq67dbn63ssgsreh3vko1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.darkstore",
+            "certificate_hash": "c3c013e38039b64963173adcbd938b3c2e880bc8"
+          }
+        },
+        {
+          "client_id": "824827103730-k5phc5hi9nqqu79fp95klm6bc9kkhcgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcPL95ML1D8pg7GyyNNxGBGMzxhItEjzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824827103730-k5phc5hi9nqqu79fp95klm6bc9kkhcgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

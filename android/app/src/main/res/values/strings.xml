@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dark Store</string>
+    <string name="facebook_app_id">1832454277090753</string>
+    <string name="fb_login_protocol_scheme">fb1832454277090753</string>
+    <string name="facebook_client_token">a478b28322d3b1e0e4cf02327c228c2d</string>
+</resources>
